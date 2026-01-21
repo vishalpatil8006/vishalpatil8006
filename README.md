@@ -1,5 +1,15 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on **embedded firmware, IoT automation projects, and STM32-based real-time systems**<br><br>🤝 I’m looking for help with **optimizing FreeRTOS task scheduling and integrating embedded systems with cloud services**<br><br>🌱 I’m currently learning **Embedded Linux basics, CAN communication, and advanced debugging techniques**<br><br>💬 Ask me about **Embedded C, STM32, LPC2148, PIC18F4580, UART/SPI/I2C, PWM, sensor interfacing, and real-time embedded development**<br><br>⚡ Fun fact **I enjoy debugging hardware + firmware more than theory — finding the root cause feels like solving a puzzle!**<br>
+🔭 I’m currently working on **Yoshita Technical Services PVT LTD**
+
+👯 I’m looking to collaborate on **embedded firmware, IoT automation projects, and STM32-based real-time systems**
+
+🤝 I’m looking for help with **optimizing FreeRTOS task scheduling and integrating embedded systems with cloud services**
+
+🌱 I’m currently learning **Embedded Linux basics, CAN communication, and advanced debugging techniques**
+
+💬 Ask me about **Embedded C, STM32, LPC2148, PIC18F4580, UART/SPI/I2C, PWM, sensor interfacing, and real-time embedded development**
+
+⚡ Fun fact **I enjoy debugging hardware + firmware more than theory — finding the root cause feels like solving a puzzle!**
+
 
 
 ## 🌐 Socials:
