@@ -1,4 +1,4 @@
-🔭 I’m currently working on **Yoshita Technical Services PVT LTD**
+🔭 I’m currently working on **Omegasoft Technologies PVT LTD**
 
 👯 I’m looking to collaborate on **embedded firmware, IoT automation projects, and STM32-based real-time systems**
 
